@@ -1,0 +1,65 @@
+html {
+    background-color:black;
+}
+
+h1 {
+    color: white;
+    margin-top: -30px;
+    margin-left: 600px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}  
+
+h2 {
+    color: white;
+    margin-left: 420px;
+    margin-top: -300px;
+}
+
+p {
+    color: white;
+    margin-top: -8px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 420px;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    text-align:justify;
+    resize: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+#jumbo{
+    background-color: black;
+    padding-top: 90px;
+    padding-bottom: 20px;
+    height: 200px;
+    opacity: 0.5;
+    background-size: 100% 100%;
+    background-image: url(tierra.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: -10px ;  
+}
+
+img{
+    margin: 100px;
+    margin-top: -100px ;
+    border: 1px solid white;
+    display: inline-block;
+    position: relative;
+}
+
+#cuerpo {
+    position: relative;
+    background-color: black;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    
+}
+
