@@ -1,6 +1,10 @@
 html {
     background-color: #01130e;
   }
+
+  button{
+    background-position: right;
+  }
   
   h1 {
     color: whitesmoke;
@@ -46,6 +50,30 @@ html {
       background-color:#bdfdfc;
       padding-top: 20px;
       padding-right: 30px;
-      padding-bottom: 20px;
-      
+      padding-bottom: 20px;    
+  }
+
+  #boton{
+    text-align: center;
+    background-color:#bdfdfc;
+    padding-bottom: 20px;
+  }
+
+  a{
+    background-color: #bdfdfc;
+    color: white;
+    border: 2px solid #023226;
+    border-radius: 4px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    text-decoration: none;
+  }
+  a:hover {
+    background-color: #feffd7;
+    color: white;
+    text-decoration: none;
   }
