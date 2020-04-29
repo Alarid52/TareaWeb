@@ -1,0 +1,38 @@
+body {
+
+	background:url(../imagnes/3.jpg);
+	color: white;
+}
+
+
+.primer{
+	height: 75px;
+	background:url(../imagnes/1.jpg);
+
+}
+
+.block1{
+
+	position: relative;
+	left: 100;
+	background: #070719;
+	width: 800px;
+	height: 100px;
+}
+
+.block2{
+	position: relative;
+	left: 100;
+	background: #070719;
+	width: 800px;
+	height: 100px;
+}
+
+.block3{
+
+	position: relative;
+	left: 100;
+	background: #070719;
+	width: 800px;
+	height: 100px;
+}
