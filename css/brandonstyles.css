@@ -26,14 +26,14 @@ body:before{
 p{
   color: #ffffff;
   font: oblique bold 120% cursive;
-  font-size: 168%;
+  font-size: 120%;
   line-height: 150%;
-  padding: 3%;
+  padding: 1%;
   text-indent: 2%;
-  text-align: justify;
+  text-align:justify;
 }
 h3{
-  font-size: 175%;
+  font-size: 150%;
   line-height: 155%;
   font-weight: 500;
   color: #ffffff;
@@ -49,6 +49,11 @@ font-weight: bold;
 a:hover{
   color: #00000;
 }
+
+.nombre{
+
+}
+
 img{
   display: block;
   margin: 0 auto;
@@ -125,4 +130,13 @@ nav ul li a{
   padding: 20px;
 
 
+}
+
+footer {
+  top:290%;
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: white;
 }
