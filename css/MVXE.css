@@ -25,7 +25,7 @@ body{
   padding-left: 100px;
   width: 200px;
   height: auto;
-  background-image: url(Pegatinas.jpg);
+  background-image: url(../img/Pegatinas.jpg);
   background-size: 70% 60%;
   background-repeat: no-repeat;
   background-position: center;
@@ -52,7 +52,6 @@ p {
     margin-bottom: 100px;
     margin-right: 50px;
     margin-left: 250px;
-    border: 1px solid black;
     padding-top: 20px;
     padding-right: 30px;
     padding-bottom: 20px;
@@ -61,6 +60,39 @@ p {
     resize: none;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
+
+  #par {
+    color: black;
+    background-color: white;
+    margin-top: -450px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 250px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    text-align:justify;
+    resize: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+ 
+#para {
+    color: black;
+    background-color: white;
+    margin-top: -10px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 250px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    text-align:justify;
+    resize: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }  
+  
 
   img{
     width: 200px;
