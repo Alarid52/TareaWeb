@@ -1,13 +1,34 @@
 body {
 
-	background:url(../imagnes/3.jpg);
+	background:url(../img/3.jpg);
 	color: white;
+	font-family: Verdana, Comic Sans MS;
 }
 
 
 .primer{
 	height: 75px;
-	background:url(../imagnes/1.jpg);
+	background:url(../img/1.jpg);
+	position: relative;
+	left: 100;
+
+}
+
+.index{
+	position: absolute;
+	top: 20;
+	left: 1000;
+	background: #610B21;
+	width: 100px;
+	height: 25px;
+
+	text-align: center;
+	text-decoration:none;
+
+	margin: 10px,10px,10px,10px;
+  	border: #0A2A29 4px solid;
+
+
 
 }
 
