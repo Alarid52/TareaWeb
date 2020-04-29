@@ -23,12 +23,17 @@ body {
 	height: 25px;
 
 	text-align: center;
-	text-decoration:none;
+	text-decoration: none;
+
 
 	margin: 10px,10px,10px,10px;
   	border: #0A2A29 4px solid;
 
 
+
+}
+a:visited{
+	color: white;
 
 }
 
