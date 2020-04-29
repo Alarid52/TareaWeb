@@ -13,7 +13,16 @@ h1 {
 h2 {
     color: white;
     margin-left: 420px;
-    margin-top: -300px;
+    margin-top: -350px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3{
+    color: rgb(121, 211, 241);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 150%;
 }
 
 p {
@@ -33,6 +42,23 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 
+#par{
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 50px;
+    margin-left: 70px;
+    border: 0px solid white;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    text-align:justify;
+    resize: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 #jumbo{
     background-color: black;
     padding-top: 90px;
@@ -40,7 +66,7 @@ p {
     height: 200px;
     opacity: 0.5;
     background-size: 100% 100%;
-    background-image: url(tierra.png);
+    background-image: url(../img/tierra.png);
     background-repeat: no-repeat;
     background-position: center;
     background-position-y: -10px ;  
@@ -56,10 +82,15 @@ img{
 
 #cuerpo {
     position: relative;
-    background-color: black;
     padding-top: 20px;
     padding-right: 30px;
     padding-bottom: 20px;
     
 }
-
+#comen{
+    position: static;
+    margin-top: -100px;
+}
+footer{
+    height: 20%;
+}
