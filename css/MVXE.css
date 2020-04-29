@@ -14,7 +14,7 @@ body{
   height: 300px;
   opacity: 0.5;
   background-size: 100% 100%;
-  background-image: url(cieloestrellado.jpg);
+  background-image: url(../img/cieloestrellado.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-position-y: -10px ;  
@@ -25,7 +25,7 @@ body{
   padding-left: 100px;
   width: 200px;
   height: auto;
-  background-image: url(Pegatinas.jpg);
+  background-image: url(../img/Pegatinas.jpg);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
