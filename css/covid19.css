@@ -94,3 +94,26 @@ img{
 footer{
     height: 20%;
 }
+#boton{
+    text-align: center;
+    background-color:black;
+    padding-bottom: 20px;
+    margin-top: 80px;
+  }
+a{
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 4px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    text-decoration: none;
+  }
+  a:hover {
+    background-color: rgb(121, 211, 241);
+    color: white;
+    text-decoration: none;
+  }
