@@ -1,0 +1,73 @@
+html {
+    background-color:black;
+}
+
+body{
+  background-color: black;
+
+}  
+
+#jumbo{
+  background-color: black;
+  padding-top: 90px;
+  padding-bottom: 20px;
+  height: 300px;
+  opacity: 0.5;
+  background-size: 100% 100%;
+  background-image: url(cieloestrellado.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position-y: -10px ;  
+}
+
+#jumbo1{
+  padding-top: 500px;
+  padding-left: 100px;
+  width: 200px;
+  height: auto;
+  background-image: url(Pegatinas.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position-y: -100px ;  
+}
+
+
+h1 {
+    color: white;
+    margin-top: 30px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: absolute;
+    top: 100px;
+} 
+
+
+
+p {
+    color: black;
+    background-color: white;
+    margin-top: -220px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 250px;
+    border: 1px solid black;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    text-align:justify;
+    resize: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  img{
+    width: 200px;
+    height: auto;
+    margin: 50px;
+    margin-top: -20px ;
+    border: 1px solid white;
+    display: inline-block;
+    position: relative;
+}
