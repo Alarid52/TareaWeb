@@ -5,6 +5,11 @@ body {
 	font-family: Verdana, Comic Sans MS;
 }
 
+p{
+
+	text-align:justify;
+	resize: none;
+}
 
 .primer{
 	height: 75px;
@@ -28,6 +33,7 @@ body {
 
 	margin: 10px,10px,10px,10px;
   	border: #0A2A29 4px solid;
+  	border-radius: 8px;
 
 
 
@@ -39,26 +45,61 @@ a:visited{
 
 .block1{
 
-	position: relative;
+	position: absolute;
+	top: 115;
 	left: 100;
 	background: #070719;
 	width: 800px;
-	height: 100px;
+	height: 310px
+
+	margin: 10px,10px,10px,10px;
+  	border: #0A2A29 4px solid;
+  	border-radius: 8px;
 }
 
 .block2{
-	position: relative;
+	position: absolute;
+	top: 450;
 	left: 100;
 	background: #070719;
 	width: 800px;
-	height: 100px;
+	height: 430px;
+
+	margin: 10px,10px,10px,10px;
+  	border: #0A2A29 4px solid;
+  	border-radius: 8px;
 }
 
 .block3{
 
-	position: relative;
+	position: absolute;
+	top: 900;
 	left: 100;
 	background: #070719;
 	width: 800px;
-	height: 100px;
+	height: 235px;
+
+	margin: 10px,10px,10px,10px;
+  	border: #0A2A29 4px solid;
+  	border-radius: 8px;
+}
+
+.libro{
+	position: absolute;
+	top: 485;
+	left: 1000;
+	width: 250px;
+	
+	padding: 10px;
+	border: 1px solid #000;
+}
+
+.peli{
+	position: absolute;
+	top: 115;
+	left: 950;
+	width: 350px;
+	
+	padding: 10px;
+	border: 1px solid white;
 }
